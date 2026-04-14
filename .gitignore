@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment secrets
+.env
+.env.local
+
+# Mac OS
+.DS_Store
+
+# IDE
+.vscode/settings.json
+.idea/
